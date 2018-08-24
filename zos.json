@@ -1,0 +1,13 @@
+{
+  "name": "gnosis-safe",
+  "version": "0.0.1",
+  "lib": true,
+  "contracts": {
+    "GnosisSafePersonalEdition": "GnosisSafePersonalEdition",
+    "GnosisSafeTeamEdition": "GnosisSafeTeamEdition",
+    "StateChannelModule": "StateChannelModule",
+    "DailyLimitModule": "DailyLimitModule",
+    "SocialRecoveryModule": "SocialRecoveryModule",
+    "WhitelistModule": "WhitelistModule"
+  }
+}

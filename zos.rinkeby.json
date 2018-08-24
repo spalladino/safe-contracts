@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "frozen": false,
+  "contracts": {
+    "GnosisSafePersonalEdition": { "address": "0x44e7f5855a77fe1793a96be8a1c9c3eaf47e9d09" },
+    "GnosisSafeTeamEdition":     { "address": "0x2494f3c5b9a1b4d3c257c5b3487237328e0c1c68" },
+    "StateChannelModule":        { "address": "0x251ac197176791bdcba45d3852b628041e9231c5" },
+    "DailyLimitModule":          { "address": "0xaed906d8fc19232208722d28fdb635e2bfe76774" },
+    "SocialRecoveryModule":      { "address": "0xdc2041aa82c7ca14f123cd59d767c765158e9725" },
+    "WhitelistModule":           { "address": "0x893c39efcc3a7b0edc54ba5c767a7a1a2375eaaf" }
+  },
+  "package":  { "address": "0x0b58258c40d908f3e7e66bf9753ef45d9ef85f03" },
+  "provider": { "address": "0x1e6b915887637c5b32241e78b897f6b68d593229" }
+}
